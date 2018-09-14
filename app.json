@@ -10,10 +10,6 @@
     "CHANNEL_SECRET": {
       "description": "Channel secret",
       "required": true
-    },
-    "PORT": {
-      "description": "Listening PORT",
-      "required": false
     }
   }
 }
